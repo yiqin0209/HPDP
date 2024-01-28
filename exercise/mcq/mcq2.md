@@ -29,151 +29,151 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Multiple Choice Questions																																					
 
-1. What is the term used to describe the tools and software utilities designed for analyzing, processing, and extracting information from large sets of extremely complex structures and extensive data sets, which traditional systems find challenging to manage?
+1a. What is the term used to describe the tools and software utilities designed for analyzing, processing, and extracting information from large sets of extremely complex structures and extensive data sets, which traditional systems find challenging to manage?
    - A) Big data technology
    - B) Big data analytics
    - C) Big data science
    - D) Big data engineering
 
-2. What are the two key approaches for big data processing?
+2a. What are the two key approaches for big data processing?
    - A) Batch processing and stream processing
    - B) Online processing and offline processing
    - C) Parallel processing and distributed processing
    - D) In-memory processing and disk-based processing
 
-3. What is the name of the open-source framework that allows distributed processing of large datasets across clusters of computers using simple programming models?
+3a. What is the name of the open-source framework that allows distributed processing of large datasets across clusters of computers using simple programming models?
    - A) Hadoop
    - B) Spark
    - C) Hive
    - D) Pig
 
-4. What is the name of the programming language that is widely used for data analysis and data science, especially for working with big data?
+4b. What is the name of the programming language that is widely used for data analysis and data science, especially for working with big data?
    - A) SQL
    - B) Python
    - C) R
    - D) SAS
 
-5. What is the name of the technique that involves creating graphical representations of data to help users understand and communicate data insights?
+5a. What is the name of the technique that involves creating graphical representations of data to help users understand and communicate data insights?
    - A) Data visualization
    - B) Data mining
    - C) Data modeling
    - D) Data storytelling
 
-6. What is the name of the technique that involves finding hidden patterns and associations in large datasets to help users discover new insights and make predictions?
+6B. What is the name of the technique that involves finding hidden patterns and associations in large datasets to help users discover new insights and make predictions?
    - A) Data visualization
    - B) Data mining
    - C) Data modeling
    - D) Data storytelling
 
-7. What is the name of the technique that involves using statistical methods and algorithms to analyze data and make predictions based on historical data and trends?
+7C. What is the name of the technique that involves using statistical methods and algorithms to analyze data and make predictions based on historical data and trends?
    - A) Descriptive analytics
    - B) Diagnostic analytics
    - C) Predictive analytics
    - D) Prescriptive analytics
 
-8. What is the name of the technique that involves using optimization and simulation methods to suggest the best course of action for a given situation based on data analysis?
+8D. What is the name of the technique that involves using optimization and simulation methods to suggest the best course of action for a given situation based on data analysis?
    - A) Descriptive analytics
    - B) Diagnostic analytics
    - C) Predictive analytics
    - D) Prescriptive analytics
 
-9. What is the name of the technique that involves using natural language processing and machine learning to generate natural language summaries of data insights and findings?
+9D. What is the name of the technique that involves using natural language processing and machine learning to generate natural language summaries of data insights and findings?
    - A) Data visualization
    - B) Data mining
    - C) Data modeling
    - D) Data storytelling
 
-10. What is the name of the technique that involves using mathematical models and equations to represent the relationships and dependencies among data variables?
+10C. What is the name of the technique that involves using mathematical models and equations to represent the relationships and dependencies among data variables?
     - A) Data visualization
     - B) Data mining
     - C) Data modeling
     - D) Data storytelling
 
-11. What is the name of the technique that involves using question answering systems and chatbots to provide natural language responses to user queries based on data analysis?
+11D. What is the name of the technique that involves using question answering systems and chatbots to provide natural language responses to user queries based on data analysis?
     - A) Data visualization
     - B) Data mining
     - C) Data modeling
     - D) Data conversational
 
-12. What is the name of the technique that involves using machine learning and artificial intelligence to analyze large and complex datasets that are beyond the capabilities of traditional data analysis methods?
+12D. What is the name of the technique that involves using machine learning and artificial intelligence to analyze large and complex datasets that are beyond the capabilities of traditional data analysis methods?
     - A) Data visualization
     - B) Data mining
     - C) Data modeling
     - D) Data science
 
-13. What is the name of the technique that involves using statistical methods and tests to draw conclusions and infer causal relationships from data?
+13C. What is the name of the technique that involves using statistical methods and tests to draw conclusions and infer causal relationships from data?
     - A) Descriptive analytics
     - B) Diagnostic analytics
     - C) Inferential analytics
     - D) Causal analytics
 
-14. What is the name of the technique that involves using experimental methods and randomized controlled trials to establish causal relationships and measure the impact of interventions on data outcomes?
+14D. What is the name of the technique that involves using experimental methods and randomized controlled trials to establish causal relationships and measure the impact of interventions on data outcomes?
     - A) Descriptive analytics
     - B) Diagnostic analytics
     - C) Inferential analytics
     - D) Causal analytics
 
-15. What are the five V's that characterize big data?
+15B. What are the five V's that characterize big data?
     - A) Volume, velocity, variety, variability, and value
     - B) Volume, velocity, variety, veracity, and value
     - C) Volume, velocity, variety, veracity, and validity
     - D) Volume, velocity, variety, variability, and validity
 
-16. What is the difference between big data and data analytics?
+16A. What is the difference between big data and data analytics?
     - A) Big data involves collecting, storing, and processing large amounts of data from a variety of sources, while data analytics focuses on examining, interpreting, and making sense of data to extract insights and facilitate decision making.
     - B) Big data involves examining, interpreting, and making sense of data to extract insights and facilitate decision making, while data analytics focuses on collecting, storing, and processing large amounts of data from a variety of sources.
     - C) Big data and data analytics are synonymous terms that refer to the same process of using data to make informed decisions.
     - D) Big data and data analytics are different terms that refer to different aspects of data, such as volume, velocity, and variety.
 
-17. What are the four data analysis methods used in big data analytics to uncover meaningful insights and derive solutions?
+17A. What are the four data analysis methods used in big data analytics to uncover meaningful insights and derive solutions?
     - A) Descriptive, diagnostic, predictive, and prescriptive
     - B) Descriptive, diagnostic, inferential, and causal
     - C) Descriptive, exploratory, confirmatory, and causal
     - D) Descriptive, exploratory, predictive, and prescriptive
 
-18. What is the term used to describe large and diverse datasets that are huge in volume and also rapidly grow in size over time?
+18A. What is the term used to describe large and diverse datasets that are huge in volume and also rapidly grow in size over time?
     - A) Big data
     - B) Data lake
     - C) Data warehouse
     - D) Data mart
 
-19. What are some of the benefits of big data analytics for businesses?
+19A. What are some of the benefits of big data analytics for businesses?
     - A) It can help improve customer satisfaction, increase operational efficiency, reduce costs, and gain a competitive edge.
     - B) It can help generate new ideas, increase creativity, foster collaboration, and enhance communication.
     - C) It can help protect data privacy, ensure data security, comply with regulations, and prevent data breaches.
     - D) All of the above
 
-20. What are some of the challenges of big data analytics?
+20D. What are some of the challenges of big data analytics?
     - A) Data quality, data integration, data storage, and data security
     - B) Data collection, data cleaning, data analysis, and data visualization
     - C) Data governance, data ethics, data literacy, and data culture
     - D) All of the above
 
-21. What are some of the common tools and technologies used to perform big data analytics?
+21D. What are some of the common tools and technologies used to perform big data analytics?
     - A) Hadoop, Spark, Hive, and Pig
     - B) SQL, Python, R, and SAS
     - C) Tableau, Power BI, Qlik, and Excel
     - D) All of the above
 
-22. What is the name of the distributed data processing engine that can run on top of Hadoop and provides fast and scalable data analysis?
+22B. What is the name of the distributed data processing engine that can run on top of Hadoop and provides fast and scalable data analysis?
     - A) Hadoop
     - B) Spark
     - C) Hive
     - D) Pig
 
-23. What is the name of the data warehouse software that runs on top of Hadoop and provides a SQL-like interface for querying and analyzing large datasets?
+23C. What is the name of the data warehouse software that runs on top of Hadoop and provides a SQL-like interface for querying and analyzing large datasets?
     - A) Hadoop
     - B) Spark
     - C) Hive
     - D) Pig
 
-24. What is the name of the data flow language and execution framework that runs on top of Hadoop and provides a scripting platform for data analysis and transformation?
+24D. What is the name of the data flow language and execution framework that runs on top of Hadoop and provides a scripting platform for data analysis and transformation?
     - A) Hadoop
     - B) Spark
     - C) Hive
     - D) Pig
 
-25. What are the two popular architecture options for big data processing that involve different data flows and technology stacks?
+25A. What are the two popular architecture options for big data processing that involve different data flows and technology stacks?
     - A) Lambda and Kappa
     - B) Alpha and Beta
     - C) Gamma and Delta
